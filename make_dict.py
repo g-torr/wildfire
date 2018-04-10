@@ -18,4 +18,3 @@ types=[int,np.unicode,np.unicode,np.unicode,float,float,float,float,float,float,
 for i in arange(0,len(titles)):
     fire[titles[i]]=np.array(dic[titles[i]],dtype=types[i])
 save_dict(fire,"fire")
-

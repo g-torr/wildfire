@@ -1,0 +1,5 @@
+How to git:
+git add " name files"
+git commit "name of the commit, i.e.1st commit"
+git remote add origin https://github.com/peppe92/wildfire.git
+git push -u origin master   or simply git push
